@@ -23,7 +23,7 @@ const Main = () => {
     }, [])
     return (
         <div>
-            Manin
+            Added events for Shift+N &amp; Shift+E
         </div>
     )
 }
